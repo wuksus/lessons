@@ -1,1 +1,1 @@
-# lessons
+#web technologies course
